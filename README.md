@@ -1,0 +1,2 @@
+Game Recommender System
+This project is a content-based game recommendation system that utilizes natural language processing techniques to recommend similar games based on their attributes such as name, developer, genre, publisher, critic score, and user score.

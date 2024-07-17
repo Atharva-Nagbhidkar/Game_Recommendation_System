@@ -1,0 +1,1 @@
+Create your own virtual env to install all the dependancies and run the app.
