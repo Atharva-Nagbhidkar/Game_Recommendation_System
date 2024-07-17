@@ -1,1 +1,1 @@
-Run the Recommendation.ipynb file to generate the pickle files.
+Run the Game Recommendation.ipynb file to generate the pickle files.
