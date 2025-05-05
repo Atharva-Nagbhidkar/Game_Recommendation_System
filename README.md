@@ -53,10 +53,10 @@ To use the recommendation system, follow these steps:
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/game-recommendation-system.git
+   git clone https://github.com/Atharva-Nagbhidkar/Game_Recommendation_System.git
 2. Navigate to the project directory:
    ```sh
-    cd game-recommendation-system
+    cd Game_Recommendation_System
 3. Install the required dependencies:
     ```sh
     pip install -r requirements.txt
